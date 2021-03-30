@@ -5,4 +5,5 @@ function solution(A) {
 }
 
 console.log(solution([]));
+
 console.log(solution([1, 4, 2, 5, 7, 8, 6, 9]));
